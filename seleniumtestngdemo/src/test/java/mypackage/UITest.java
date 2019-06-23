@@ -6,6 +6,13 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+/**
+ * This test is executed from maven for which details related to testng sutie is
+ * configured in pom.xml
+ * 
+ * @author SP
+ *
+ */
 public class UITest {
 	/**
 	 * Test using chrome browser

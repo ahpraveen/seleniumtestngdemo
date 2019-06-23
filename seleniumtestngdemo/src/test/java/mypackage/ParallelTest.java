@@ -8,6 +8,12 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+/**
+ * This Test created for parallel execution
+ * see pom.xml file for testng related config.
+ * @author Praveen Haridas
+ *
+ */
 public class ParallelTest {
 	/**
 	 * Test using firefox
