@@ -11,3 +11,9 @@ This is a demo project using testng, selenium-java with maven.
 4/ config the sutiexmlfile in pom.xml
 
 5/ create testng.xml and testng-parallel-run (for parallel execcution)
+
+6/ go to command prompt in the project work space enter mvn clean
+
+7/ mvn test
+
+8/ check surefire-report folder for test results
