@@ -8,7 +8,7 @@ This is a demo project using testng, selenium-java with maven.
 
 3/ Add plugin for maven-surefire-plugin
 
-4/ config the sutiexmlfile in pom.xml
+4/ config the suitexmlfile in pom.xml
 
 5/ create testng.xml and testng-parallel-run (for parallel execcution)
 
