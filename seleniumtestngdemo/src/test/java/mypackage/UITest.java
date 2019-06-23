@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
  * This test is executed from maven for which details related to testng sutie is
  * configured in pom.xml
  * 
- * @author SP
+ * @author Praveen Haridas
  *
  */
 public class UITest {
