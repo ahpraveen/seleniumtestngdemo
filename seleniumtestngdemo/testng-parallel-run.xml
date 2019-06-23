@@ -3,7 +3,7 @@
 <suite name="RegressionSuite" parallel="methods" thread-count="2" >
   <test name="Regression">
     <classes>
-       <class name="mypackage.UITest" />
+       <class name="mypackage.ParallelTest" />
     </classes>
   </test>
 </suite>
